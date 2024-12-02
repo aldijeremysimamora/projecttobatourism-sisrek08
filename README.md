@@ -21,6 +21,6 @@ Dalam proyek ini, kami menggunakan pendekatan berikut:
 Model dievaluasi menggunakan metrik Precision, Recall, dan MAE untuk menilai kualitas rekomendasi.  
 
 ## 🤝 Kelompok 08  
-- Aldi Simamora 12S21011 
-- Lasni Simanjuntak 12S21034   
-- Astri Siahaan 12S21036 
+- 12S21011 Aldi Simamora  
+- 12S21034 Lasni Simanjuntak    
+- 12S21036 Astri Yuliana Siahaan  
