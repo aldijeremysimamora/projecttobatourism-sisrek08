@@ -3,7 +3,15 @@ Proyek ini merupakan implementasi model Collaborative Filtering (CF) dan Content
 
 ## 🎯 Tujuan  
 - Membantu wisatawan menemukan destinasi dan aktivitas wisata sesuai preferensi.  
-- Membandingkan kinerja model CF dan CBF dalam memberikan rekomendasi.  
+- Membandingkan kinerja model CF dan CBF dalam memberikan rekomendasi.
+
+## 🛠️ Proposed Model  
+Dalam proyek ini, kami menggunakan pendekatan berikut:  
+1. **Model Utama**:  
+   - **Non-Negative Matrix Factorization (NMF)** untuk Collaborative Filtering.  
+2. **Model Pembanding**:  
+   - IBCF (**Pearson Correlation**)  
+   - **Cosine Similarity**. 
 
 ## 🛠️ Teknologi  
 - **Bahasa**: Python  
