@@ -11,7 +11,7 @@ Dalam proyek ini, kami menggunakan pendekatan berikut:
    - **Non-Negative Matrix Factorization (NMF)** untuk Collaborative Filtering.  
 2. **Model Pembanding**:  
    - IBCF (**Pearson Correlation**)  
-   - **Cosine Similarity**. 
+   - CBF (**Cosine Similarity**)
 
 ## 🛠️ Teknologi  
 - **Bahasa**: Python  
